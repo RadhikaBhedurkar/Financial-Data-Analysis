@@ -7,13 +7,13 @@ This project performs financial data analysis using SQL. It helps track income, 
 
 # Objective:
 
-1.Analyze revenue and expenses
+1. Analyze revenue and expenses
 
-2.Compute monthly profit/loss trends
+2. Compute monthly profit/loss trends
 
-3.Detect large or unusual transactions
+3. Detect large or unusual transactions
 
-4.Summarize investment portfolios and expected returns
+4. Summarize investment portfolios and expected returns
 
 
 # Key Features / SQL Analyses
