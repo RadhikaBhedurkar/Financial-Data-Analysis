@@ -4,7 +4,7 @@
 
 This project performs financial data analysis using SQL. It helps track income, expenses, transactions, and investments, generating insights such as profit/loss trends, customer spending behavior, and investment performance.
 
-Objective:
+# Objective:
 
 1.Analyze revenue and expenses
 
@@ -14,7 +14,7 @@ Objective:
 
 4.Summarize investment portfolios and expected returns
 
-🗄️ Database Schema
+#  Database Schema
 Tables
 
 1. customers – Stores customer information
@@ -67,7 +67,7 @@ start_date (DATE)
 
 return_rate (DECIMAL)
 
-🧮 Key Features / SQL Analyses
+# Key Features / SQL Analyses
 
 > Revenue and Expenses: Calculate total revenue, total expenses, and net profit.
 
@@ -79,6 +79,6 @@ return_rate (DECIMAL)
 
 > Investment Portfolio Summary: Calculate expected returns based on investments.
 
-Detect Large Transactions: Identify abnormal or unusually large transactions.
+> Detect Large Transactions: Identify abnormal or unusually large transactions.
 
-Customer Ranking: Rank customers based on total spending, profit, or investment returns.
+> Customer Ranking: Rank customers based on total spending, profit, or investment returns.
